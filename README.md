@@ -13,7 +13,7 @@
 <!-- badges: end -->
 
 - 🔨 I’m currently working on the next version of the
-  [loopurrr](https://github.com/TimTeaFan/loopurrr/) package
+  [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
 - 📚 I’m currently learning JavasScript <img
   src="README_files/figure-gfm/fa-icon-b69f063572e24e92f91fda595506d6dc.svg"
   style="width:0.88em;height:1em" />
