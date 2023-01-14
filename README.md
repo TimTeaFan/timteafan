@@ -23,8 +23,8 @@
   src="README_files/figure-gfm/fa-icon-d2066dff794e758f2bccfc87752aa0fc.svg"
   width="10" height="14" />
 - 💬 Ask me about <img
-  src="README_files/figure-gfm/fa-icon-a6114546c7f33a5a1cd908b95616b053.svg"
-  style="width:1.13em;height:1em" />, Python <img
+  src="README_files/figure-gfm/fa-icon-4a57c30ed8b181cf513632681efa890d.svg"
+  width="15" height="14" />, Python <img
   src="README_files/figure-gfm/fa-icon-cb46e02fd9240854a57abdc30f0231fa.svg"
   width="12" height="14" /> and Data Sience
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
