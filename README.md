@@ -13,8 +13,8 @@
 
 - 🔨 I’m currently working on the
   [loopurrr](https://github.com/TimTeaFan/loopurrr/) package
-- 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📚 I’m currently learning javascript
 - 🤔 I’m still looking for help with this shiny question
 - 💬 Ask me about R, Python and Data Sience
+- 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📣 Have a look at my repositories below ⬇️
