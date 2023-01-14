@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 library(fontawesome)
 ```
 
-# Hi there 👋 I'm Tim
+# 📢 Hi there 👋 I'm Tim!
 
 <!-- badges: start -->
 
@@ -25,4 +25,4 @@ library(fontawesome)
 -   🤔 I'm still looking for help with [this shiny question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app) `r fa("stack-overflow", fill = "#F48024", height = "18px")`
 -   💬 Ask me about `r fa("r-project", fill = "#165CAA", height = "18px")`, Python `r fa("python", fill = "#4B8BBE", height = "18px")` and Data Sience
 -   🔗 Visit my website at: <https://tim-tiefenbach.de/>
--   📣 Have a look at my repositories below ⬇️
+-   📢 Have a look at my repositories below ⬇️

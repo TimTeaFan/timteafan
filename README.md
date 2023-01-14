@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Hi there 👋 I’m Tim
+# 📢 Hi there 👋 I’m Tim!
 
 <!-- badges: start -->
 
@@ -28,4 +28,4 @@
   src="README_files/figure-gfm/fa-icon-96f41de4f5012384b207244a9a0ec6a3.svg"
   width="15" height="18" /> and Data Sience
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
-- 📣 Have a look at my repositories below ⬇️
+- 📢 Have a look at my repositories below ⬇️
