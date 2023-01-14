@@ -21,7 +21,7 @@ library(fontawesome)
 <!-- badges: end -->
 
 -   🔨 I'm currently working on the next version of the [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
--   📚 I'm currently learning JavasScript `r fa("square-js", fill = "yellow", prefer_type="solid")`
+-   📚 I'm currently learning JavasScript `r sub(pattern = "<path", replacement = '<rect width="100%" height="100%" fill="black"/><path', x = fa("square-js", fill = "yellow", prefer_type="solid"))`
 -   🤔 I'm still looking for help with [this shiny question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app) `r fa("stack-overflow", fill = "#F48024")`
 -   💬 Ask me about `r fa("r-project", fill = "#165CAA")`, Python `r fa("python", fill = "#4B8BBE")` and Data Sience
 -   🔗 Visit my website at: <https://tim-tiefenbach.de/>
