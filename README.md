@@ -15,17 +15,17 @@
 - 🔨 I’m currently working on the next version of the
   [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
 - 📚 I’m currently learning JavasScript <img
-  src="README_files/figure-gfm/fa-icon-6374b039bf1cda27222c805b86ae8923.svg"
-  width="12" height="14" />
+  src="README_files/figure-gfm/fa-icon-236c2d819bc727a876edc3af00c0eea1.svg"
+  width="14" height="16" />
 - 🤔 I’m still looking for help with [this shiny
   question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app)
   <img
-  src="README_files/figure-gfm/fa-icon-d2066dff794e758f2bccfc87752aa0fc.svg"
-  width="10" height="14" />
+  src="README_files/figure-gfm/fa-icon-33ea84b422437ef29f2083097cd32bd0.svg"
+  width="12" height="16" />
 - 💬 Ask me about <img
-  src="README_files/figure-gfm/fa-icon-4a57c30ed8b181cf513632681efa890d.svg"
-  width="15" height="14" />, Python <img
-  src="README_files/figure-gfm/fa-icon-cb46e02fd9240854a57abdc30f0231fa.svg"
-  width="12" height="14" /> and Data Sience
+  src="README_files/figure-gfm/fa-icon-5148e7fbe58377f4ea01c94adb55ece5.svg"
+  width="18" height="16" />, Python <img
+  src="README_files/figure-gfm/fa-icon-85718d24dca679f9bf0e38426c1eced4.svg"
+  width="14" height="16" /> and Data Sience
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📣 Have a look at my repositories below ⬇️
