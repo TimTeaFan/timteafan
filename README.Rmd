@@ -10,16 +10,10 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 library(fontawesome)
-library(rsvg)
 
-qu <- function(fill_col) {
-paste0('<svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:',fill_col,';" />
-</svg>')
-}
-
-qu_green <- qu('rgb(57, 211, 83)')
-qu_lgreen <- qu('rgb(155, 233, 168)')
-qu_gray <- qu('rgb(235, 237, 240)')
+qu_green <- fa("square", fill = "rgb(57, 211, 83)", height = "15px", prefer_type="solid")
+qu_lgreen <- fa("square", fill = "rgb(155, 233, 168)", height = "15px", prefer_type="solid")
+qu_gray <- fa("square", fill = "rgb(235, 237, 240)", height = "15px", prefer_type="solid")
 ```
 
 # 📢 Hi there 👋 I'm Tim!

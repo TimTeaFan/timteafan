@@ -31,44 +31,44 @@ stats](https://github-readme-stats.vercel.app/api?username=timteafan&theme=algol
   src="README_files/figure-gfm/fa-icon-96f41de4f5012384b207244a9a0ec6a3.svg"
   width="15" height="18" /> and Data Sience
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
-- 📢 Have a look at my repositories below ⬇️<br><br>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(57, 211, 83);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg> in case my contributions<br>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(155, 233, 168);" />
-  </svg> show a lot of inactivity:<br>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg> Note, I often avoid working<br>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(57, 211, 83);" />
-  </svg>
-  <svg width="15" height="15"><rect width="15" height="15" rx="2" style="fill:rgb(235, 237, 240);" />
-  </svg> on the main branches 😅
+- 📢 Have a look at my repositories below ⬇️<br><br> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-ff68bccec28c57297d066c0fc2fca126.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> in case my contributions<br> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-cfb4d3dafecd31a4a0d41177bf5dec21.svg"
+  width="13" height="15" /> show a lot of inactivity:<br> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> Note, I often avoid working<br> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-ff68bccec28c57297d066c0fc2fca126.svg"
+  width="13" height="15" /> <img
+  src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
+  width="13" height="15" /> on the main branches 😅
