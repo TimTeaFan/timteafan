@@ -12,6 +12,9 @@
 
 <!-- badges: end -->
 
+![Tim’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=timteafan&theme=algolia&show_icons=true)
+
 - 🔨 I’m currently working on the next version of the
   [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
 - 📚 I’m currently learning JavasScript <img
@@ -29,3 +32,7 @@
   width="15" height="18" /> and Data Sience
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📢 Have a look at my repositories below ⬇️
+
+⬜🟩⬜⬜⬜ in case my GitHub contributions<br> ⬜⬜⬜⬜🟩 show a lot of
+inactivity, note:<br> ⬜⬜⬜🟩⬜ I often avoid working on the main
+branch
