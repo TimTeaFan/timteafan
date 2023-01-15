@@ -31,5 +31,5 @@ library(fontawesome)
  
 ⬜ 🟩 ⬜ ⬜ ⬜ in case my contributions<br>
 ⬜ ⬜ ⬜ ⬜ 🟩 show a lot of inactivity:<br>
-⬜ ⬜ ⬜ ⬜ ⬜ Note: I often avoid working<br>
-⬜ ⬜ ⬜ 🟩 ⬜ on the main branches<br>
+⬜ ⬜ ⬜ ⬜ ⬜ Note, I often avoid working<br>
+⬜ ⬜ ⬜ 🟩 ⬜ on the main branches

@@ -34,5 +34,5 @@ stats](https://github-readme-stats.vercel.app/api?username=timteafan&theme=algol
 - 📢 Have a look at my repositories below ⬇️
 
 ⬜ 🟩 ⬜ ⬜ ⬜ in case my contributions<br> ⬜ ⬜ ⬜ ⬜ 🟩 show a lot of
-inactivity:<br> ⬜ ⬜ ⬜ ⬜ ⬜ Note: I often avoid working<br> ⬜ ⬜ ⬜
-🟩 ⬜ on the main branches<br>
+inactivity:<br> ⬜ ⬜ ⬜ ⬜ ⬜ Note, I often avoid working<br> ⬜ ⬜ ⬜
+🟩 ⬜ on the main branches
