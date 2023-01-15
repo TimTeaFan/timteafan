@@ -28,8 +28,9 @@ library(fontawesome)
 -   💬 Ask me about `r fa("r-project", fill = "#165CAA", height = "18px")`, Python `r fa("python", fill = "#4B8BBE", height = "18px")` and Data Sience
 -   🔗 Visit my website at: <https://tim-tiefenbach.de/>
 -   📢 Have a look at my repositories below ⬇️
- 
+
+<br>
 ⬜ 🟩 ⬜ ⬜ ⬜ in case my contributions<br>
 ⬜ ⬜ ⬜ ⬜ 🟩 show a lot of inactivity:<br>
 ⬜ ⬜ ⬜ ⬜ ⬜ Note, I often avoid working<br>
-⬜ ⬜ ⬜ 🟩 ⬜ on the main branches
+⬜ ⬜ ⬜ 🟩 ⬜ on the main branches 😅
