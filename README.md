@@ -13,7 +13,7 @@
 <!-- badges: end -->
 
 ![Tim’s GitHub
-stats](https://github-readme-stats.vercel.app/api?username=timteafan&theme=algolia&show_icons=true)
+stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
 - 🔨 I’m currently working on the next version of the
   [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
