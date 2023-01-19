@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+<a style="display: none" rel="me" href="https://fosstodon.org/@TimTeaFan">Mastodon</a>
 <a href="https://www.twitter.com/timteafan" target="blank"><img src="https://img.shields.io/twitter/follow/timteafan?label=Twitter&amp;style=social" alt="Followers on Twitter"/></a>
 <a rel="me" href="https://fosstodon.org/@TimTeaFan"><img src="https://img.shields.io/mastodon/follow/109529514106713499?domain=https%3A%2F%2Ffosstodon.org&amp;label=Mastodon%20&amp;style=social" alt="Followers on Mastodon"/></a>
 <a href="https://stackoverflow.com/users/9349302/timteafan" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9349302?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
