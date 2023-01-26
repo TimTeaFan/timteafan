@@ -12,6 +12,9 @@
 
 <!-- badges: end -->
 
+I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on
+customer experience 🤗 data.
+
 ![Tim’s GitHub
 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
