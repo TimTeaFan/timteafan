@@ -84,3 +84,6 @@ src="README_files/figure-gfm/fa-icon-ff68bccec28c57297d066c0fc2fca126.svg"
 width="13" height="15" /> <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
 width="13" height="15" /> on the main branches 😅
+
+If you want to support me, [buy me a
+tea](https://www.buymeacoffee.com/extras) 🍵.
