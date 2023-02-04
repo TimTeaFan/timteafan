@@ -42,4 +42,4 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 
 `r qu_gray` `r qu_green` `r qu_gray` `r qu_gray` `r qu_gray` in case my contributions<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_lgreen` show a lot of inactivity:<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` Note, I often avoid working<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_green` `r qu_gray` on the main branches 😅
 
-If you want to support me, [buy me a tea](https://www.buymeacoffee.com/extras) 🍵.
+If you want to support me, [buy me a tea](https://www.buymeacoffee.com/timteafan) 🍵.
