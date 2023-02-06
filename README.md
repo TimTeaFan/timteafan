@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/9349302/timteafan" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9349302?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
 <a href="https://www.linkedin.com/in/timtiefenbach" target="blank"><img src="https://shields.io/badge/Connect-0A66C2?logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/>
 </a> [![Buy me a
-tea](README_files/figure-gfm/buymeatea2.svg)](https://www.buymeacoffee.com/timteafan)
+tea](README_files/figure-gfm/buymeatea.svg)](https://www.buymeacoffee.com/timteafan)
 <!-- badges: end -->
 
 I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on
