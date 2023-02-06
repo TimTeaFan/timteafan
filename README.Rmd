@@ -25,7 +25,7 @@ qu_gray <- fa("square", fill = "rgb(235, 237, 240)", height = "15px", prefer_typ
 <a href="https://stackoverflow.com/users/9349302/timteafan" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9349302?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
 <a href="https://www.linkedin.com/in/timtiefenbach" target="blank"><img src="https://shields.io/badge/Connect-0A66C2?logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-[![Buy me a tea](README_files/figure-gfm/buymeatea.svg)](https://www.buymeacoffee.com/timteafan)
+[![Buy me a tea](README_files/figure-gfm/buymeatea2.svg)](https://www.buymeacoffee.com/timteafan)
 <!-- badges: end -->
 
 I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on customer experience 🤗 data.
@@ -43,4 +43,13 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 
 `r qu_gray` `r qu_green` `r qu_gray` `r qu_gray` `r qu_gray` in case my contributions<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_lgreen` show a lot of inactivity:<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` Note, I often avoid working<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_green` `r qu_gray` on the main branches 😅
 
-If you want to support me, [buy me a tea](https://www.buymeacoffee.com/timteafan) 🍵.
+If you want to support me, [buy me a tea](https://www.buymeacoffee.com/timteafan) 🍵😋
+
+<details>
+  <summary>
+  Credits:
+  </summary>
+    <p>
+    <small>green tea logo in "buy me a tea" badge by FELIX FX from <a href="https://thenounproject.com/browse/icons/term/green-tea/" target="_blank" title="green tea Icons">Noun Project</a></small>
+    </p>
+  </details>

@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/9349302/timteafan" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9349302?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
 <a href="https://www.linkedin.com/in/timtiefenbach" target="blank"><img src="https://shields.io/badge/Connect-0A66C2?logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/>
 </a> [![Buy me a
-tea](README_files/figure-gfm/buymeatea.svg)](https://www.buymeacoffee.com/timteafan)
+tea](README_files/figure-gfm/buymeatea2.svg)](https://www.buymeacoffee.com/timteafan)
 <!-- badges: end -->
 
 I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on
@@ -87,4 +87,15 @@ src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
 width="13" height="15" /> on the main branches 😅
 
 If you want to support me, [buy me a
-tea](https://www.buymeacoffee.com/timteafan) 🍵.
+tea](https://www.buymeacoffee.com/timteafan) 🍵😋
+
+<details>
+<summary>
+Credits:
+</summary>
+<p>
+<small>green tea logo in “buy me a tea” badge by FELIX FX from
+<a href="https://thenounproject.com/browse/icons/term/green-tea/" target="_blank" title="green tea Icons">Noun
+Project</a></small>
+</p>
+</details>
