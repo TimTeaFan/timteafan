@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117" height="20" role="img" aria-label="buy me a tea">
+  <title>buy me a tea</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="117" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="0" height="20" fill="#555"/>
+    <rect x="0" width="117" height="20" fill="#555"/>
+    <rect width="117" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+  <g class="layer">
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" id="svg_1" transform="translate(3.4,0.5)">
+   <path d="m3.61,14.87l0,-0.32c-2.08,-1.33 -2.58,-3.34 -1.58,-4.98l12.07,0c1,1.64 0.5,3.65 -1.58,4.98l0,0.32l-8.9,0z" fill="#33c09b" id="svg_2"/>
+   <path d="m13.02,15.37c-0.29,0.19 -0.68,0.36 -1.15,0.51l-7.62,0c-0.47,-0.14 -0.86,-0.31 -1.15,-0.51c-0.91,0 -0.74,-0.31 -0.14,-0.31l10.2,0c0.6,0 0.77,0.31 -0.14,0.31l-0.01,0z" fill="#33c09b" id="svg_3"/>
+   <path d="m6.91,9c-2.94,-2.95 2.05,-4.67 -0.48,-7.62c4.06,2.23 -0.15,5.59 0.48,7.62z" fill="#33c09b" id="svg_4"/>
+   <path d="m8.86,9.23c-2.94,-2.95 2.05,-4.67 -0.48,-7.62c4.06,2.23 -0.15,5.59 0.48,7.62z" fill="#33c09b" id="svg_5" transform="matrix(1 0 0 1 0 0)"/>
+  </g>
+ </g>
+    <text aria-hidden="true" x="675" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="890">buy me a tea</text>
+    <text x="675" y="140" transform="scale(.1)" fill="#fff" textLength="890">buy me a tea</text>
+  </g>
+</svg>

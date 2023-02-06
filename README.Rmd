@@ -23,8 +23,9 @@ qu_gray <- fa("square", fill = "rgb(235, 237, 240)", height = "15px", prefer_typ
 [<img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/TimTeaFan/dynamicTwitterHeader/main/data/followers&label=Twitter&query=$.data.followers&style=social&logo=Twitter">](https://twitter.com/timteafan/status/1511034067344572422?s=21)
 <a rel="me" href="https://fosstodon.org/@TimTeaFan"><img src="https://img.shields.io/mastodon/follow/109529514106713499?domain=https%3A%2F%2Ffosstodon.org&amp;label=Mastodon%20&amp;style=social" alt="Followers on Mastodon"/></a>
 <a href="https://stackoverflow.com/users/9349302/timteafan" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/9349302?label=Reputation&amp;logo=StackOverflow&amp;logoColor=orange&amp;style=social" alt="StackOverflow Profile"/></a>
-<a href="https://www.linkedin.com/in/timtiefenbach" target="blank"><img src="https://shields.io/badge/Connect-0A66C2?logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/></a>
-
+<a href="https://www.linkedin.com/in/timtiefenbach" target="blank"><img src="https://shields.io/badge/Connect-0A66C2?logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+[![Buy me a tea](README_files/figure-gfm/buymeatea.svg)](https://www.buymeacoffee.com/timteafan)
 <!-- badges: end -->
 
 I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on customer experience 🤗 data.
