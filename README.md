@@ -94,8 +94,11 @@ tea](https://www.buymeacoffee.com/timteafan) 🍵😋
 Credits:
 </summary>
 <p>
-<small>green tea logo in “buy me a tea” badge by FELIX FX from
-<a href="https://thenounproject.com/browse/icons/term/green-tea/" target="_blank" title="green tea Icons">Noun
-Project</a></small>
+<small>The “green tea” logo in the “buy me a tea” badge above was
+created by FELIX FX from
+<a href="https://thenounproject.com/icon/green-tea-1741538/" target="_blank" title="green tea Icons">Noun
+Project</a> and is licensed under
+<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC
+BY 3.0</a></small>
 </p>
 </details>
