@@ -12,7 +12,7 @@
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
   <g stroke="#d5d5d5">
-    <rect stroke="none" fill="#fcfcfc" x="0.5" y="0.5" width="84" height="19" rx="2"/>
+    <rect stroke="none" fill="#fcfcfc" x="0.5" y="0.5" width="90" height="19" rx="2"/>
   </g>
   
     <g class="layer">
