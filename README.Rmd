@@ -33,7 +33,7 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 
 ![Tim's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
--   🔨 I'm currently working on the next version of the [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
+-   🔨 I'm working on the  [hugodownplus](https://github.com/TimTeaFan/hugodownplus/) 📦 package
 -   📚 I'm currently learning JavasScript `r sub(pattern = "<path", replacement = '<rect x="20" y="40" width="90%" height="80%" fill="black"/><path', x = fa("square-js", fill = "yellow", height = "18px", prefer_type="solid"))`
 -   🤔 I'm still looking for help with [this shiny question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app) `r fa("stack-overflow", fill = "#F48024", height = "18px")`
 -   🗣️ Ask me about `r fa("r-project", fill = "#165CAA", height = "18px")`, Python `r fa("python", fill = "#4B8BBE", height = "18px")` and Data Sience
@@ -41,7 +41,7 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 -   🔗 Visit my website at: <https://tim-tiefenbach.de/>
 -   📢 Have a look at my repositories below ⬇️
 
-`r qu_gray` `r qu_green` `r qu_gray` `r qu_gray` `r qu_gray` in case my contributions<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_lgreen` show a lot of inactivity:<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` Note, I often avoid working<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_green` `r qu_gray` on the main branches 😅
+`r qu_gray` `r qu_green` `r qu_gray` `r qu_gray` `r qu_gray` In case my contributions<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_lgreen` show a lot of inactivity:<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` `r qu_gray` Note, I often avoid working<br> `r qu_gray` `r qu_gray` `r qu_gray` `r qu_green` `r qu_gray` on the main branches 😅
 
 If you want to support me, [buy me a tea](https://www.buymeacoffee.com/timteafan) 🍵😋
 

@@ -19,8 +19,8 @@ customer experience 🤗 data.
 ![Tim’s GitHub
 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
-- 🔨 I’m currently working on the next version of the
-  [loopurrr](https://github.com/TimTeaFan/loopurrr/) package 📦
+- 🔨 I’m working on the
+  [hugodownplus](https://github.com/TimTeaFan/hugodownplus/) 📦 package
 - 📚 I’m currently learning JavasScript <img
   src="README_files/figure-gfm/fa-icon-37c49b8093c25c439b1b4db6049857c5.svg"
   width="15" height="18" />
@@ -54,7 +54,7 @@ width="13" height="15" /> <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
 width="13" height="15" /> <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
-width="13" height="15" /> in case my contributions<br> <img
+width="13" height="15" /> In case my contributions<br> <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
 width="13" height="15" /> <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
