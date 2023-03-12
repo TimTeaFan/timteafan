@@ -45,6 +45,7 @@ stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&
 - 📢 Have a look at my repositories below ⬇️
 
 📖 Check my latest blog post: <!-- BLOG-POST-LIST:START -->
+- [Introducing: {hugodownplus} 📦](https://tim-tiefenbach.de/post/2023-introducing-hugodownplus/)
 <!-- BLOG-POST-LIST:END -->
 
 <img
