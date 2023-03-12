@@ -18,3 +18,4 @@ jobs:
         with:
           feed_list: "https://tim-tiefenbach.de/post/index.xml"
           max_post_count: 1
+          template: [$title]($url)

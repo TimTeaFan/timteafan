@@ -20,8 +20,8 @@ customer experience 🤗 data.
 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
 🔨 I’m working on the next version of the
-[loopurrr](https://github.com/TimTeaFan/loopurrr/) 📦 package 📚 I’m
-currently learning JavasScript <img
+[loopurrr](https://github.com/TimTeaFan/loopurrr/) 📦 package <br> 📚
+I’m currently learning JavaScript <img
 src="README_files/figure-gfm/fa-icon-37c49b8093c25c439b1b4db6049857c5.svg"
 width="15" height="18" /> <br> 🤔 I’m still looking for help with [this
 shiny
@@ -40,8 +40,8 @@ width="15" height="15" /></a> or
 src="README_files/figure-gfm/fa-icon-c52e21a2594718c2e0eaa3e007bbb9b9.svg"
 width="13" height="15" /></a> <br> 🔗 Visit my website at:
 <https://tim-tiefenbach.de/> <br> 📢 Have a look at my repositories
-below ⬇️ <br> 📖 Check my latest blog post:
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+below ⬇️ <br> 📖 Read my latest blog post: <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
