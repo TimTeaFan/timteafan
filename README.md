@@ -40,8 +40,7 @@ width="15" height="15" /></a> or
 src="README_files/figure-gfm/fa-icon-c52e21a2594718c2e0eaa3e007bbb9b9.svg"
 width="13" height="15" /></a> <br> 🔗 Visit my website at:
 <https://tim-tiefenbach.de/> <br> 📢 Have a look at my repositories
-below ⬇️ <br> 📖 Read my latest blog post: <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+below ⬇️ <br> 📖 Read my latest blog post: <!-- BLOG-POST-LIST:START -->[Introducing: {hugodownplus} 📦](https://tim-tiefenbach.de/post/2023-introducing-hugodownplus/)<!-- BLOG-POST-LIST:END -->
 
 <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
