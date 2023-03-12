@@ -44,7 +44,10 @@ stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📢 Have a look at my repositories below ⬇️
 - 📖 Finally, check my latest blog post: <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Introducing: {hugodownplus} 📦](https://tim-tiefenbach.de/post/2023-introducing-hugodownplus/)
+- [The ultimate guide to ordering rows in R](https://tim-tiefenbach.de/post/2023-ordering-rows/)
+- [Partially renaming columns using a lookup table](https://tim-tiefenbach.de/post/2022-rename-columns/)
+<!-- BLOG-POST-LIST:END -->
 
 <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
