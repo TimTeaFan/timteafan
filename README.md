@@ -43,8 +43,9 @@ stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&
   width="13" height="15" /></a>
 - 🔗 Visit my website at: <https://tim-tiefenbach.de/>
 - 📢 Have a look at my repositories below ⬇️
-- 📖 Finally, check my latest blog post: <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+
+📖 Check my latest blog post: <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"

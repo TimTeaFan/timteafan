@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://tim-tiefenbach.de/post/index.xml"
+          max_post_count: 1

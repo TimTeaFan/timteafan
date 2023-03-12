@@ -40,7 +40,8 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 -   💬 get in touch with me via <a href="https://www.twitter.com/timteafan">Twitter `r fa("twitter", fill = "#1DA1F2", height = "15px", prefer_type="solid")`</a> or <a rel="me" href="https://fosstodon.org/@TimTeaFan">Mastodon `r fa("mastodon", fill = "#8c8dff", height = "15px", prefer_type="solid")`</a>
 -   🔗 Visit my website at: <https://tim-tiefenbach.de/>
 -   📢 Have a look at my repositories below ⬇️
--   📖 Finally, check my latest blog post:
+
+📖 Check my latest blog post:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
