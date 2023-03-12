@@ -35,12 +35,17 @@ I’m a Senior Data Scientist 🥼 working in insurance 📝 with a focus on cus
 
 🔨 I'm working on the next version of the [loopurrr](https://github.com/TimTeaFan/loopurrr/) 📦 package
 📚 I'm currently learning JavasScript `r sub(pattern = "<path", replacement = '<rect x="20" y="40" width="90%" height="80%" fill="black"/><path', x = fa("square-js", fill = "yellow", height = "18px", prefer_type="solid"))`
+<br>
 🤔 I'm still looking for help with [this shiny question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app) `r fa("stack-overflow", fill = "#F48024", height = "18px")`
+<br>
 🗣️ Ask me about `r fa("r-project", fill = "#165CAA", height = "18px")`, Python `r fa("python", fill = "#4B8BBE", height = "18px")` and Data Sience
+<br>
 💬 get in touch with me via <a href="https://www.twitter.com/timteafan">Twitter `r fa("twitter", fill = "#1DA1F2", height = "15px", prefer_type="solid")`</a> or <a rel="me" href="https://fosstodon.org/@TimTeaFan">Mastodon `r fa("mastodon", fill = "#8c8dff", height = "15px", prefer_type="solid")`</a>
+<br>
 🔗 Visit my website at: <https://tim-tiefenbach.de/>
+<br>
 📢 Have a look at my repositories below ⬇️
-
+<br>
 📖 Check my latest blog post:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
