@@ -19,28 +19,32 @@ customer experience 🤗 data.
 ![Tim’s GitHub
 stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timteafan&theme=tokyonight&bg_color=00000000&show_icons=true)
 
-🔨 I’m working on the next version of the
-[loopurrr](https://github.com/TimTeaFan/loopurrr/) 📦 package <br> 📚
-I’m currently learning JavaScript <img
-src="README_files/figure-gfm/fa-icon-37c49b8093c25c439b1b4db6049857c5.svg"
-width="15" height="18" /> <br> 🤔 I’m still looking for help with [this
-shiny
-question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app)
-<img
-src="README_files/figure-gfm/fa-icon-4903764b0d4ea98d4a063b4b8bc71ee5.svg"
-width="13" height="18" /> <br> 🗣️ Ask me about <img
-src="README_files/figure-gfm/fa-icon-9993944d25bd9d653b35384522f3499c.svg"
-width="20" height="18" />, Python <img
-src="README_files/figure-gfm/fa-icon-96f41de4f5012384b207244a9a0ec6a3.svg"
-width="15" height="18" /> and Data Sience <br> 💬 get in touch with me
-via <a href="https://www.twitter.com/timteafan">Twitter <img
-src="README_files/figure-gfm/fa-icon-b0513978debc816dec80a6717d1bea33.svg"
-width="15" height="15" /></a> or
-<a rel="me" href="https://fosstodon.org/@TimTeaFan">Mastodon <img
-src="README_files/figure-gfm/fa-icon-c52e21a2594718c2e0eaa3e007bbb9b9.svg"
-width="13" height="15" /></a> <br> 🔗 Visit my website at:
-<https://tim-tiefenbach.de/> <br> 📢 Have a look at my repositories
-below ⬇️ <br> 📖 Read my latest blog post: <!-- BLOG-POST-LIST:START -->[Introducing: {hugodownplus} 📦](https://tim-tiefenbach.de/post/2023-introducing-hugodownplus/)<!-- BLOG-POST-LIST:END -->
+- 🔨 I’m working on the next version of the
+  [loopurrr](https://github.com/TimTeaFan/loopurrr/) 📦 package
+- 📚 I’m currently learning JavaScript <img
+  src="README_files/figure-gfm/fa-icon-37c49b8093c25c439b1b4db6049857c5.svg"
+  width="15" height="18" />
+- 🤔 I’m still looking for help with [this shiny
+  question](https://stackoverflow.com/questions/59382931/embed-an-external-shiny-app-in-another-vanilla-shiny-app)
+  <img
+  src="README_files/figure-gfm/fa-icon-4903764b0d4ea98d4a063b4b8bc71ee5.svg"
+  width="13" height="18" />
+- 🗣️ Ask me about <img
+  src="README_files/figure-gfm/fa-icon-9993944d25bd9d653b35384522f3499c.svg"
+  width="20" height="18" />, Python <img
+  src="README_files/figure-gfm/fa-icon-96f41de4f5012384b207244a9a0ec6a3.svg"
+  width="15" height="18" /> and Data Sience
+- 💬 get in touch with me via
+  <a href="https://www.twitter.com/timteafan">Twitter <img
+  src="README_files/figure-gfm/fa-icon-b0513978debc816dec80a6717d1bea33.svg"
+  width="15" height="15" /></a> or
+  <a rel="me" href="https://fosstodon.org/@TimTeaFan">Mastodon <img
+  src="README_files/figure-gfm/fa-icon-c52e21a2594718c2e0eaa3e007bbb9b9.svg"
+  width="13" height="15" /></a>
+- 🔗 Visit my website at: <https://tim-tiefenbach.de/>
+- 📖 Read my latest blog post: <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+- 📢 Have a look at my repositories below ⬇️
 
 <img
 src="README_files/figure-gfm/fa-icon-9d45ec2cd252b27805621d05730665a3.svg"
